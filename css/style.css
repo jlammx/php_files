@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Poppins:wght@100&display=swap');
+
+
+body {
+    background: #f2f2f2;
+}
+
+.social-box .box {
+    background: #FFF;
+    border-radius: 50px; 
+    cursor: pointer;
+    margin: 10px 0;
+    padding: 10px 0;
+    transition: all 0.5s ease-out;
+}
+
+.social-box .box:hover {
+   box-shadow: 0 0 6px #4183D7;
+}
+
+.social-box .box-title {
+    font-size: 18px;
+    /*font-family:'Courier New';*/
+    font-weight: bold;
+    color: #4183D7;
+}
+
+.social-box .box-text {
+    font-size: 16px;
+    /* font-family:'Courier New';*/
+    line-height: 30px;
+    margin: 10px 0;
+    text-overflow: ellipsis;
+    /*border: red 2px solid;*/
+}
+
+.social-box .box-btn a {
+    color: #4183D7;
+    text-decoration: none;
+}
+
+.social-box .fa {
+    color: #4183D7;
+}
