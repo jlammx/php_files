@@ -1,4 +1,4 @@
-# PHP | $_FILES Array (HTTP File Upload variables)
+# PHP | $_FILES Array
 How does the PHP file handle know some basic information like file-name, file-size, type of the file and a few attributes about the file which has been selected to be uploaded? Let’s have a look at what is playing behind the scene. **$_FILES** is a two-dimensional associative global array of items which are being uploaded via the HTTP POST method and holds the attributes of files such as:
 
 
@@ -22,18 +22,18 @@ $_FILES[input-field-name][error]
 ```
 
 
-### Examples
-- [Show all attributes array $_FILES](https://pub.dartlang.org/packages/intl)  
+### 👨‍💻 Examples
+- [Array $_FILES](https://github.com/jlammx/php_files/blob/master/show_all_attributes_array_files/show_attributes.php)  
 Show all attributes of array $_FILES when uploading a file in the same page 
 
 - [HTTP file upload variables](https://pub.dev/packages/http)  
 Show all attributes of $_FILES when uploading a file on a different page (file upload manager)
 
 
-### Screenshots
+### 📸 Screenshots
 
 
-### Skills
+### 📈 Skills
 <p align="left">
 	<a href="https://dart.dev" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>

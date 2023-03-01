@@ -1,16 +1,4 @@
-<html>
-	<head>
-		<title>HTTP File Upload Variables</title>
-		<meta charset="UTF-8">
-		<meta name="description" content="Show all attributes of $_FILES when uploading a file on a different page">
-		<meta name="keywords" content="$_FILES">
-		<meta name="author" content="Jorge Luis Aguirre Martínez">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	</head>
-</html>
-
 <?php
-
 // Check if the form was submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
@@ -49,12 +37,20 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 } else {
 	echo "<p>The form not was submitted...</p>";
 }
+?>
 
-// Show a link to back
-?>
-<?php ?>
-	<div style='text-align: center; padding: 10px; font-size: 20px;'>
-		<a href="./index.php" title="return">Back</a>
-	</div>
-<?php
-?>
+<html>
+	<head>
+		<title>HTTP File Upload Variables</title>
+		<meta charset="UTF-8">
+		<meta name="description" content="Show all attributes of $_FILES when uploading a file on a different page">
+		<meta name="keywords" content="$_FILES">
+		<meta name="author" content="JORGE LUIS AGUIRRE MARTINEZ">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+</html>
+
+<!-- Show a link to back -->
+<div style='text-align: center; padding: 10px; font-size: 20px;'>
+	<a href="./index.php" title="return">Back</a>
+</div>

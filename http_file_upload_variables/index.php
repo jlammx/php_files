@@ -2,11 +2,10 @@
 <html>
 	<head>
 		<title>HTTP File Upload Variables</title>
-
 		<meta charset="UTF-8">
 		<meta name="description" content="Show the attributes of $_FILES when uploading a file on a different page">
 		<meta name="keywords" content="$_FILES">
-		<meta name="author" content="Jorge Luis Aguirre Martínez">
+		<meta name="author" content="JORGE LUIS AGUIRRE MARTINEZ">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<link href="../css/style2.css" rel="stylesheet" type="text/css" />

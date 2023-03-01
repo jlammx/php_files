@@ -6,12 +6,11 @@
 ?>
 
 <head>
-	<title>Show all attributes array $_FILES</title>
-
+    <title>Show all attributes array $_FILES</title>
     <meta charset="UTF-8">
     <meta name="description" content="Show all attributes of $_FILES when uploading a file in the same page">
     <meta name="keywords" content="$_FILES">
-    <meta name="author" content="Jorge Luis Aguirre Martínez">
+    <meta name="author" content="JORGE LUIS AGUIRRE MARTINEZ">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
