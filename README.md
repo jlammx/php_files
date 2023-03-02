@@ -33,14 +33,14 @@ Show all attributes of $_FILES when uploading a file on a different page (file u
 ### 📸 Screenshots
 > Array $_FILES
 <p align="left">
-	<img src="./assets/screenshots/2023-02-28_1_Show all attributes array $_FILES.png" alt="Array $_FILES"/>
-	<img src="assets/screenshots/2023-02-28_2_Show all attributes array $_FILES.png" alt="Array $_FILES"/>
+	<img src="./assets/screenshots/2023-02-28_1_SS.png" alt="Array $_FILES"/>
+	<img src="assets/screenshots/2023-02-28_2_SS.png" alt="Array $_FILES"/>
 </p>
 
 > HTTP file upload variables
 <p align="left">
-	<img src="assets/screenshots/2023-02-28_3_HTTP File Upload Variables.png" alt="HTTP file upload variables"/>
-	<img src="assets/screenshots/2023-02-28_4_HTTP File Upload Variables.png" alt="HTTP file upload variables"/>
+	<img src="assets/screenshots/2023-02-28_3_SS.png" alt="HTTP file upload variables"/>
+	<img src="assets/screenshots/2023-02-28_4_SS.png" alt="HTTP file upload variables"  width="500"/>
 </p>
 
 <a href=https://youtu.be/zp7G6uLlve8><img src="https://markdown-videos.deta.dev/youtube/zp7G6uLlve8"></a></img>
