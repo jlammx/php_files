@@ -61,7 +61,12 @@ Show the data or information that are associated with an image is called as meta
 </p>
 
 
-<a href=https://youtu.be/zp7G6uLlve8><img src="https://markdown-videos.deta.dev/youtube/zp7G6uLlve8"></a></img>
+> 🔴 Live 
+<p align="left">
+	<img src="assets/screenshots/2023-03-01_07_Mobile.gif" alt="Live" height="500"/>
+	<a href=https://youtu.be/Fmv_-BsqLAs><img src="https://markdown-videos.deta.dev/youtube/Fmv_-BsqLAs" height="250"></a></img>
+</p>
+
 
 <!--
 style="width:40%;"
@@ -100,4 +105,4 @@ style="width:40%;"
 	</div>
 </p>
 
-<p align="center"> Last updated at 01 Mar 2023</p>
+<p align="center"> Last updated at 02 Mar 2023</p>
