@@ -6,6 +6,7 @@
 		<meta name="description" content="Show the attributes of $_FILES when uploading a file on a different page">
 		<meta name="keywords" content="$_FILES">
 		<meta name="author" content="JORGE LUIS AGUIRRE MARTINEZ">
+		<meta name="publish_date" property="og:publish_date" content="2023-03-01T22:00:00-0600">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<link href="../css/style2.css" rel="stylesheet" type="text/css" />

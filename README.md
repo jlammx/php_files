@@ -20,28 +20,46 @@ $_FILES[input-field-name][size]
 $_FILES[input-field-name][type]
 $_FILES[input-field-name][error]
 ```
+<br/>
+
+**Get image properties using PHP $_FILES**
+
+PHP provides various functions and DLL to extract image properties from an image. These functions are:
+
+1. imagesx() and imagesy()
+2. getimagesize()
+3. exif_read_data()
 
 
 ### 👨‍💻 Examples
 - [Array $_FILES](https://github.com/jlammx/php_files/blob/master/show_all_attributes_array_files/show_attributes.php)  
-Show all attributes of array $_FILES when uploading a file in the same page 
+Show all attributes of array $_FILES when uploading a file in the same page
 
 - [HTTP file upload variables](http_file_upload_variables)  
 Show all attributes of $_FILES when uploading a file on a different page (file upload manager)
 
+- [Getting image properties](get_image_properties/index.php)  
+Show the data or information that are associated with an image is called as metadata of the images. For example, image type, image width, and height, attributes, created date, last modified date and etc.
 
 ### 📸 Screenshots
 > Array $_FILES
 <p align="left">
-	<img src="./assets/screenshots/2023-02-28_1_SS.png" alt="Array $_FILES"/>
-	<img src="assets/screenshots/2023-02-28_2_SS.png" alt="Array $_FILES"/>
+	<img src="./assets/screenshots/2023-02-28_01_SS.png" alt="Array $_FILES"/>
+	<img src="assets/screenshots/2023-02-28_02_SS.png" alt="Array $_FILES"/>
 </p>
 
 > HTTP file upload variables
 <p align="left">
-	<img src="assets/screenshots/2023-02-28_3_SS.png" alt="HTTP file upload variables"/>
-	<img src="assets/screenshots/2023-02-28_4_SS.png" alt="HTTP file upload variables"  width="500"/>
+	<img src="assets/screenshots/2023-02-28_03_SS.png" alt="HTTP file upload variables"/>
+	<img src="assets/screenshots/2023-02-28_04_SS.png" alt="HTTP file upload variables"  width="500"/>
 </p>
+
+> Getting image properties
+<p align="left">
+	<img src="assets/screenshots/2023-03-01_05_SS.png" alt="Getting Image Properties"/>
+	<img src="assets/screenshots/2023-03-01_06_SS.png" alt="Getting Image Properties"  width="250"/>
+</p>
+
 
 <a href=https://youtu.be/zp7G6uLlve8><img src="https://markdown-videos.deta.dev/youtube/zp7G6uLlve8"></a></img>
 
