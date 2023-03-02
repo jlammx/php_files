@@ -8,7 +8,7 @@ How does the PHP file handle know some basic information like file-name, file-si
 | [name] 	| Name of file which is uploading |
 | [size] 	| Size of the file |
 | [type] 	| Type of the file (like .pdf, .zip, .jpeg…..etc) |
-| [tmp_name]| A temporary address where the file is located before processing the upload request |
+| [tmp_name]	| A temporary address where the file is located before processing the upload request |
 | [error] 	| Types of error occurred when the file is uploading |
 
 
@@ -26,11 +26,36 @@ $_FILES[input-field-name][error]
 - [Array $_FILES](https://github.com/jlammx/php_files/blob/master/show_all_attributes_array_files/show_attributes.php)  
 Show all attributes of array $_FILES when uploading a file in the same page 
 
-- [HTTP file upload variables](https://pub.dev/packages/http)  
+- [HTTP file upload variables](http_file_upload_variables)  
 Show all attributes of $_FILES when uploading a file on a different page (file upload manager)
 
 
 ### 📸 Screenshots
+> Array $_FILES
+<p align="left">
+	<img src="./assets/screenshots/2023-02-28_1_Show all attributes array $_FILES.png" alt="Array $_FILES"/>
+	<img src="assets/screenshots/2023-02-28_2_Show all attributes array $_FILES.png" alt="Array $_FILES"/>
+</p>
+
+> HTTP file upload variables
+<p align="left">
+	<img src="assets/screenshots/2023-02-28_3_HTTP File Upload Variables.png" alt="HTTP file upload variables"/>
+	<img src="assets/screenshots/2023-02-28_4_HTTP File Upload Variables.png" alt="HTTP file upload variables"/>
+</p>
+
+<a href=https://youtu.be/zp7G6uLlve8><img src="https://markdown-videos.deta.dev/youtube/zp7G6uLlve8"></a></img>
+
+<!--
+style="width:40%;"
+
+[![](https://markdown-videos.deta.dev/youtube/zp7G6uLlve8)](https://youtu.be/zp7G6uLlve8)
+
+<div align="left">
+      <a href="https://www.youtube.com/embed/zp7G6uLlve8">
+         <img src="https://img.youtube.com/vi/zp7G6uLlve8/0.jpg" alt="PHP $_FILES">
+      </a>
+</div>
+-->
 
 
 ### 📈 Skills
@@ -57,4 +82,4 @@ Show all attributes of $_FILES when uploading a file on a different page (file u
 	</div>
 </p>
 
-<p align="center"> Last updated at 28 Feb 2023</p>
+<p align="center"> Last updated at 01 Mar 2023</p>
