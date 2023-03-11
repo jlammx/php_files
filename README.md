@@ -1,4 +1,12 @@
 # PHP | $_FILES Array
+
+This project is an example of some uses of  $_FILES superglobal variable.
+
+Deployed by **[jlammx](https://github.com/jlammx)**
+- 🚀 Live: [View deployment](http://demo.pagos.cafisa.org/php_files)
+
+<br/>
+
 How does the PHP file handle know some basic information like file-name, file-size, type of the file and a few attributes about the file which has been selected to be uploaded? Let’s have a look at what is playing behind the scene. **$_FILES** is a two-dimensional associative global array of items which are being uploaded via the HTTP POST method and holds the attributes of files such as:
 
 
@@ -105,4 +113,4 @@ style="width:40%;"
 	</div>
 </p>
 
-<p align="center"> Last updated at 02 Mar 2023</p>
+<p align="center"> Last updated at 10 Mar 2023</p>
